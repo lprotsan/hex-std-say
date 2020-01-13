@@ -1,6 +1,6 @@
 {
     "name": "lprotsan/hex-std-say",
-    "description": "Small talk with Hexlet",
+    "description": "test Small talk with Hexlet",
     "keywords": ["hexlet", "php", "composer"],
     "license": "MIT",
     "bin": [
